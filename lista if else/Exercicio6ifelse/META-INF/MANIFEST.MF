@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Exercicio6ifelse
+Bundle-SymbolicName: Exercicio6ifelse
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: Exercicio6ifelse
+Bundle-RequiredExecutionEnvironment: JavaSE-17
